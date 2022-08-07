@@ -75,6 +75,7 @@
 | **ssl.cipher.version**   | SSL version of the preferred cipher                   | string           |
 | **ssl.cipher.bits**      | Number of bits in the preferred cipher                | integer          |
 | **ssl.cipher.name**      | Name of the preferred cipher                          | string           |
+| **ssl.cert.subject.CN**  | Name of the preferred TLS CN                          | string           |
 
 ## Telnet Filters
 | **Name**          | **Description**                                             | **Type** |
